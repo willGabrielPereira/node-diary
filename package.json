@@ -1,0 +1,14 @@
+{
+  "name": "diary",
+  "version": "1.0.0",
+  "description": "Sistema para diário",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "William Gabriel Pereira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
